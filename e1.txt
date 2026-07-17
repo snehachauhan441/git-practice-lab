@@ -3,3 +3,4 @@ Department: it
 Project: AWS Migration
 location:pune
 Experience:8yrs
+Skill: linux
