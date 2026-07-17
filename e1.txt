@@ -1,7 +1,5 @@
 Employee:rahul
-<<<<<<< HEAD
-=======
->>>>>>> conflict-demo
+Department:cloud
 Project: AWS Migration
 location:pune
 Experience:8yrs
