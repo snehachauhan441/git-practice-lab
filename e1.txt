@@ -1,5 +1,5 @@
 Employee:rahul
-Department: it
+Department: hr
 Project: AWS Migration
 location:pune
 Experience:8yrs
