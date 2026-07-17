@@ -4,3 +4,4 @@ Project: AWS Migration
 location:pune
 Experience:8yrs
 Skill: linux
+Certification:aws
