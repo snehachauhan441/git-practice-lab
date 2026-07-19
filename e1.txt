@@ -9,3 +9,5 @@ Sal:100000
 Envirnoment : development
 Backup:enabled
 Region : mumbai
+Monitoring: Enabled 
+ 
