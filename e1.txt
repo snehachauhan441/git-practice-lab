@@ -11,3 +11,6 @@ Backup:enabled
 Region : mumbai
 Monitoring: Enabled 
  
+CPU: Core
+RAM:16GB
+Stoage:500GB
